@@ -1,10 +1,6 @@
 # CoinTrader README #
 
-This README would normally document whatever steps are necessary to get your application up and running.
-
-### How do I edit this README.md file? ###
-
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+A cryptocurrency arbitrage trader bot which detects intra-exchange arbitrage opportunities and executes profitable trading cycles automatically.
 
 ### How do I get set up? ###
 
