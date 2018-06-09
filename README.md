@@ -1,4 +1,4 @@
-# CoinTrader README #
+# Crypto Arbitrage Trader README #
 
 A cryptocurrency arbitrage trader bot which detects intra-exchange arbitrage opportunities and executes profitable trading cycles automatically.
 
